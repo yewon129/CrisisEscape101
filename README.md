@@ -60,3 +60,9 @@
 가로막고 있는 방화셔터의 입구를 찾아 상호 작용하여 문을 열고 나가 계단으로 이동하면 시연이 종료된다.
 
 ![8](README.assets/7.png)
+
+## :fire: 모델링
+![model](README.assets/모델링.gif)
+
+## :fire: 기술스택
+![기술스택](README.assets/기술스택.png)
